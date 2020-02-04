@@ -1,0 +1,4 @@
+C:\Users\comp6\Desktop\NETpractical\solutions\practical2\bin\Debug\practical2.exe
+C:\Users\comp6\Desktop\NETpractical\solutions\practical2\bin\Debug\practical2.pdb
+C:\Users\comp6\Desktop\NETpractical\solutions\practical2\obj\x86\Debug\practical2.exe
+C:\Users\comp6\Desktop\NETpractical\solutions\practical2\obj\x86\Debug\practical2.pdb
